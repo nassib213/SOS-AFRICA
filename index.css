@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+h1{
+    font-size: 2em;
+}
+nav{
+
+}
+nav ul{
+
+}
+nav ul li{
+
+}
+nav ul li a{
+
+}
+header{
+    background: url(./images-projet-1/desert-africain.webp);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+
+}
+header h2{
+
+}
+header p{
+
+}
